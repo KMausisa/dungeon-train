@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="16" tileheight="16" infinite="0" nextlayerid="5" nextobjectid="1">
+ <tileset firstgid="1" name="Dungeon_Tileset" tilewidth="16" tileheight="16" tilecount="100" columns="10">
+  <image source="../../../../../../Downloads/game assets for sprint 5/sample game assets/2D Pixel Dungeon Asset Pack v2.0/2D Pixel Dungeon Asset Pack/character and tileset/Dungeon_Tileset.png" width="160" height="160"/>
+ </tileset>
+ <layer id="1" name="Base Layer" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAMBKFr+P3bLMdAwVVTVVVVVVVVVVXV5w+vUwOq
+  </data>
+ </layer>
+ <layer id="2" name="Layer 1" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztk8kKwkAQRNvd6EXQWxLvrlf//8/sIj2MCEZvM8J7UEynyaFqKjEDAAAAAAAA+MzENXXNQnPXInZpvyzm7ne2rv6L/iGH+pDXjWvvWsWscx079aKe1I262hVxOo76kF9laSx7by3n0XMXp3Y19qM+jpb9HmzII79t7FKOPt6ttQ95lj91oTzy3MSsLA/XNXRz3Ys4HUd9yHf6L+RbGVIHmmv8jt45uc6hiw33/Xr32tV4/wAAAAAAAAAAADXwBBvCBzU=
+  </data>
+ </layer>
+ <layer id="4" name="Layer 2" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt0rENgDAMAMGsBhIdYgHSsP8S2SAYicQg3ZW2iy9cCgAAANw7g7O/WrMDHqjBu31oxVxHdsBLruyAjuhffd3S2W3TKgAAAACALA0psAMy
+  </data>
+ </layer>
+</map>
